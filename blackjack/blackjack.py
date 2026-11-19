@@ -71,6 +71,8 @@ def jugar_partida():
             jugador.append(baraja.pop())
         elif opcion == "s":
             break
+        else:
+            print("Opción no válida. Escribe p para pedir o s para plantarte.")
 
     # Turno del crupier: pide hasta tener 17 o más
     while puntos(crupier) < 17:
