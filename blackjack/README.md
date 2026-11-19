@@ -1,6 +1,6 @@
 # Blackjack en Python
 
-Juego de Blackjack por consola hecho para practicar Git y GitHub.
+Blackjack por consola en Python, programado en pareja por Gabriel y Roberto.
 
 ## Cómo jugar
 
