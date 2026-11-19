@@ -1,6 +1,6 @@
 # Blackjack en Python
 
-Juego de Blackjack en python para la asignatura MOPI de 2 DAW.
+Blackjack por consola en Python para la asignatura MOPI de 2.º DAW, programado en pareja por Gabriel y Roberto.
 
 ## Integrantes
 
