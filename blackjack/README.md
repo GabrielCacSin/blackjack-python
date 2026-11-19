@@ -1,6 +1,6 @@
 # Blackjack en Python
 
-Juego de Blackjack por consola hecho para practicar Git y GitHub.
+Juego de Blackjack en python para la asignatura MOPI de 2 DAW.
 
 ## Integrantes
 
